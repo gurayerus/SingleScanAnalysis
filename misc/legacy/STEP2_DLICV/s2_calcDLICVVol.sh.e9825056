@@ -1,5 +1,0 @@
-object #31 depth 7 below cpuset 0x0000ffff,0xffffffff nodeset 0x0000000f does not exist
-object #28 depth 7 below cpuset 0x0000ffff,0xffffffff nodeset 0x0000000f does not exist
-object #29 depth 7 below cpuset 0x0000ffff,0xffffffff nodeset 0x0000000f does not exist
-taskset: failed to set pid 76521's affinity: Invalid argument
-object #28 depth 7 below cpuset 0x0000ffff,0xffffffff nodeset 0x0000000f does not exist
